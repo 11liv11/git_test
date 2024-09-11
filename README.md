@@ -1,1 +1,1 @@
-# git_test
+This is my first entry to GitHub as part of The Odin Project!
